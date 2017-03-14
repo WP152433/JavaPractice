@@ -31,8 +31,6 @@ public class Operator {
 		System.out.println("점포 수 : " + String.format("%,d", store) + '개' );
 		money = (long)month * 12 * person * store;
 		System.out.println("\n연간 인건비 : " + String.format("%,d", money) + '원');
-		
-
 	}
 
 }
