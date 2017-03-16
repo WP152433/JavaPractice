@@ -15,7 +15,7 @@ package org.dimigo.basic;
  * @author 	: Dav
  * @version : 1.0
  */
-public class PrimitiveDataType {
+public class PrimitiveDataType { 
 
 	/**
 	 * @param args
